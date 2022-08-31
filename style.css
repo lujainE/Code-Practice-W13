@@ -90,22 +90,14 @@
     transform: translate(-50%, -50%);
     text-align: center;
   }
-  .pr p{
-    font-size: 25px;
-  }
-  .pr a{
+  
+  a:link {
     text-decoration: none;
+  }
+  
+  a button{
     color:  rgb(255, 255, 255);
   }
-  .pr a:hover{
-    text-decoration: none;
-    color:  rgb(255, 255, 255);
-  }
-  .w3-button a{
-    text-decoration: none;
-    color:  rgb(255, 255, 255);
-  }
-  .w3-button a:hover{
-    text-decoration: none;
+  a:hover{
     color:  rgb(255, 255, 255);
   }
